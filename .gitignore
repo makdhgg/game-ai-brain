@@ -1,0 +1,8 @@
+# Игнорируем ВСЁ
+*
+
+# Разрешаем только нужное
+!.gitignore
+!promtog.py
+!mainog.py
+!debug_rawog.py
